@@ -1,0 +1,23 @@
+{
+  "name": "NodeJSGoogleOauth2",
+  "version": "1.0.0",
+  "author": "Copyright (c) 2020 FRANCOIS GARDIEN",
+  "licence": "MIT",
+  "description": "",
+  "private": true,
+  "nodeModulesDir": "auto",
+  "scripts": {
+    "start": "node main.js",
+    "startbrowser": "node --inspect  main.js"
+  },
+  "dependencies": {
+    "connect-memcached": "^2.0.0",
+    "crypto": "^1.0.1",
+    "debug": "~2.6.9",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "googleapis": "^146.0.0"
+  },
+  "packageManager": "pnpm@10.7.1+sha512.2d92c86b7928dc8284f53494fb4201f983da65f0fb4f0d40baafa5cf628fa31dae3e5968f12466f17df7e97310e30f343a648baea1b9b350685dafafffdf5808"
+}

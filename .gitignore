@@ -1,0 +1,6 @@
+.env
+*.sqlite
+.hgignore
+.hg
+.code-workspace
+node_modules
