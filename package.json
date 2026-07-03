@@ -11,6 +11,7 @@
     "startbrowser": "node --inspect  main.js"
   },
   "dependencies": {
+    "better-sqlite3": "^12.11.1",
     "connect-memcached": "^2.0.0",
     "crypto": "^1.0.1",
     "debug": "~2.6.9",
